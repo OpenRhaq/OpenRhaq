@@ -31,9 +31,9 @@ I'm a passionate IT Technical/System Engineer with a growing interest in:
 
 📫 **How to Reach Me**
 
-- 📧 Email: `openrhaq[at]protonmail.com`  
+- 📧 Email: ``  
 - 🧑‍💻 GitHub: [@OpenRhaq](https://github.com/OpenRhaq)  
-- 💬 Discord: `OpenRhaq#9999`  
+- 💬 Discord: `OpenRhaq`  
 
 ---
 
