@@ -33,7 +33,7 @@ I'm a passionate IT Technical/System Engineer with a growing interest in:
 
 - 📧 Email: ``  
 - 🧑‍💻 GitHub: [@OpenRhaq](https://github.com/OpenRhaq)  
-- 💬 Discord: `OpenRhaq`  
+- 💬 Discord: [@OpenRhaq](https://discord.com/OpenRhaq)
 
 ---
 
